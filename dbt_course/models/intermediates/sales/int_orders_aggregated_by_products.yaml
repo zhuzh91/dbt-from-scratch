@@ -1,0 +1,6 @@
+models:
+  - name: int_orders_aggregated_by_products
+    columns:
+      - name: product_id
+      - name: times_ordered
+      - name: gross_sales

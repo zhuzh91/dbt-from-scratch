@@ -1,0 +1,12 @@
+models:
+  - name: product_info
+    columns:
+      - name: product_id
+      - name: product_name
+      - name: category_name
+      - name: supplier_name
+      - name: units_in_stock
+      - name: units_on_order
+      - name: discontinued
+      - name: times_ordered
+      - name: gross_sales

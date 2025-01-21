@@ -1,0 +1,8 @@
+models:
+  - name: retired_salesmen
+    columns:
+      - name: employee_id
+      - name: employee_full_name
+      - name: customer_id
+      - name: company_name
+      - name: status_name
